@@ -1,7 +1,36 @@
 #hueso{
     position: absolute;
     z-index: 100;
-    left: 600px; 
-    width: 00px;
+    left: 270px;
+    top: 300px;
+    width: 200px;
     height: 200px;
+}
+
+#drum-buttons-container{
+    position: absolute;
+    z-index: 1000;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+.btn-drum{
+    position: relative;
+}
+
+nav{
+    color: black;
+    background-color: red;
+    text-decoration: none;
+}
+
+#nav-container{
+    background-color: gray;
+}
+
+.nav-menu-bar{
+    background-color: brown;
+
 }
